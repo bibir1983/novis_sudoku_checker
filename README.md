@@ -9,8 +9,7 @@ Simple sudoku answer validation, using methode vertical & horizontal value
 - run on terminal only
 
 ## How to run
-- just type node sudoku_check.js on terminal / cmd
+- just type **node sudoku_check.js** on terminal / cmd
 
 ## Setting
-- Only set variable board_array & board_array_answer on sudoku_check.js for generated, solve & validate the answer
-
+- Only set variable **board_array** & **board_array_answer** on sudoku_check.js for **generated, solve & validate the answer**
